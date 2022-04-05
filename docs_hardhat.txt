@@ -7,3 +7,5 @@ It is TypeScript compatible and uses Chai matchers to make tests easy to read an
 @nomiclabs/hardhat-waffle :-Adds a Waffle-compatible provider to the Hardhat Runtime Environment and automatically initializes the Waffle Chai matchers.
 
 waffle chai matchers :- https://ethereum-waffle.readthedocs.io/en/latest/matchers.html (chai for ethereum)
+
+in harhat config.js :- We're only requiring hardhat-waffle here because it depends on hardhat-ethers so adding both isn't necessary.
