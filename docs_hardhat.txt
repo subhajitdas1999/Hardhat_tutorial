@@ -1,0 +1,9 @@
+Hardhat-ethers :- Injects ethers.js into the Hardhat Runtime Environment. ethers form hardhat is globally available
+
+waffle :- Waffle is a framework for testing smart contracts that uses minimal dependencies, has syntax that is easy to learn and extend, and 
+provides fast execution times when compiling and testing smart contracts. 
+It is TypeScript compatible and uses Chai matchers to make tests easy to read and write.
+
+@nomiclabs/hardhat-waffle :-Adds a Waffle-compatible provider to the Hardhat Runtime Environment and automatically initializes the Waffle Chai matchers.
+
+waffle chai matchers :- https://ethereum-waffle.readthedocs.io/en/latest/matchers.html (chai for ethereum)
